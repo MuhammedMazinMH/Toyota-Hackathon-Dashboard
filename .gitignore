@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data (Too large for GitHub)
+data/*.csv
+data/*.parquet
+*.parquet
+
+# VS Code
+.vscode/
